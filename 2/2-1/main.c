@@ -4,7 +4,7 @@
 
 int main()
 {
-    //char is special in c, whether the default is signed or unsigned is dependent on the platform
+    //char is special in c whether the default is signed or unsigned is dependent on the platform
     printf("Min of plain char: %d\n", CHAR_MIN);
     printf("Min of signed char: %d\n", SCHAR_MIN);
     printf("Min of unsigned char: 0");
