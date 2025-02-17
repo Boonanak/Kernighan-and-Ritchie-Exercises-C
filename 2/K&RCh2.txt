@@ -3,7 +3,7 @@ Excercise 2-1
 Excercise 2-2
   Write a loop equivalent to the for loop above without using && or ||
 Excercise 2-3
-  Write a functon htoi(s), which converts a string of hexdeciaml digits (including an optional 0x or oX) into its equivalent integer value. The allowable digits are 0 through 9, a through f, and Athrough F
+  Write a functon htoi(s), which converts a string of hexdeciaml digits (including an optional 0x or oX) into its equivalent integer value. The allowable digits are 0 through 9, a through f, and A through F
 Excercise 2-4
   Write an alternate version of squeeze(s1, s2) that deletes each character in s1 that matches any character in the string s2
 Excercise 2-5
