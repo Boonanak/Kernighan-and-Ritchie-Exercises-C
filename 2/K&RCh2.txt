@@ -6,7 +6,7 @@ Excercise 2-3
   Write a functon htoi(s), which converts a string of hexdeciaml digits (including an optional 0x or oX) into its equivalent integer value. The allowable digits are 0 through 9, a through f, and A through F
 Excercise 2-4 *
   Write an alternate version of squeeze(s1, s2) that deletes each character in s1 that matches any character in the string s2
-Excercise 2-5 *
+Excercise 2-5
   Wrie a function anyh(s1, s2), which returns the first location in the string s1 where any character from the string s2 occurs, or -1 if s1 contains no characters from s2. (The standard library function strpbrk does teh same job but returns a pointer to the location.)
 Excercise 2-6 *
   Write a function setbits(x, p, n, y) that returns x with the n bits that begin at position p set to the rightmost n bits of y, leaving the other bits unchanged.
