@@ -1,2 +1,4 @@
 .vscode/
 cmds.txt
+*.exe  # Windows executables
+*.out   # Common output extension
